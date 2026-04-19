@@ -28,6 +28,8 @@ https://drive.google.com/drive/folders/1g8vUcQmU-PUL5jcI-e2Tg5mZNnyGf_2H?usp=dri
 
 
 
+
+
 Project Plan:
 
 
@@ -48,6 +50,8 @@ Project Plan:
 5.	Review & Finalization 
 
 6.	Final Presentation 
+
+
 
 
 
@@ -73,6 +77,10 @@ Roles & Responsibilities:
 * Based on these data all the team will work on creating campaigns and creating the content (posts, videos, reels) and calendar creation for publishing the content and analysis of reach results
 
 
+
+
+
+
 •	KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate). 
 
 To ensure the success of our marketing campaigns and measure the Return on Investment (ROI) for our clients (clinics, pharmacies, and laboratories), we will rely on the following Key Performance Indicators:
@@ -83,11 +91,15 @@ To ensure the success of our marketing campaigns and measure the Return on Inves
 
     Follower Growth Rate: Tracking the monthly increase in relevant followers across platforms (Facebook, Instagram, TikTok) to measure the success of our content strategy.
 
+
+
 2. Engagement Metrics:
 
     Engagement Rate: Calculating the percentage of interactions (likes, comments, shares, saves) relative to the number of followers or reach, which evaluates the quality and impact of our educational medical content.
 
     Click-Through Rate (CTR): Measuring the percentage of people who clicked on links in our ads or posts (e.g., a booking link or WhatsApp button) compared to the total number of people who viewed the ad.
+
+
 
 3. Lead Generation & Conversion Metrics:
 
@@ -96,6 +108,8 @@ To ensure the success of our marketing campaigns and measure the Return on Inves
     Cost Per Lead (CPL): Calculating the amount spent on ads for each acquired booking message or call, ensuring the optimal use of the healthcare provider's marketing budget.
 
     Conversion Rate: The percentage of prospects who contacted the page and actually converted into patients visiting the clinic or customers purchasing from the pharmacy.
+
+
 
 4. Agency Success Metrics (RxDigi Specific):
 
